@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LemonEdgeCodingTest", "LemonEdgeCodingTest\LemonEdgeCodingTest.csproj", "{3DA1F555-7F72-499C-A0E5-FA62D311680D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LemonEdgeCodingTest.Tests", "LemonEdgeCodingTest.Tests\LemonEdgeCodingTest.Tests.csproj", "{41788E10-EBA8-4F5A-9BB7-8C7FF3A35920}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{617D97C4-2801-4159-BB9F-C42666FE6CD6}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA1F555-7F72-499C-A0E5-FA62D311680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA1F555-7F72-499C-A0E5-FA62D311680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA1F555-7F72-499C-A0E5-FA62D311680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA1F555-7F72-499C-A0E5-FA62D311680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41788E10-EBA8-4F5A-9BB7-8C7FF3A35920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41788E10-EBA8-4F5A-9BB7-8C7FF3A35920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41788E10-EBA8-4F5A-9BB7-8C7FF3A35920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41788E10-EBA8-4F5A-9BB7-8C7FF3A35920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C710CDD-B528-4ECC-87A1-17F8886F76B0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+Rook count is 49326
+Bishop count is 2341
+Knight count is 952
+King count is 124908
+Queen count is 751503
+White Pawn count is 0
+Black Pawn count is 0
