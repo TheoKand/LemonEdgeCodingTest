@@ -1,3 +1,5 @@
+![LemonEdgeCodingTest](documents/LemonEdge.png)
+
 ## Problem
 
 The following diagram is of a standard telephone keypad. It consists of a 4x3 grid of buttons. Using the valid moves of a piece from the game of chess, varying combinations of 7-digit phone numbers can be derived. For example, starting in the upper-right corner (the "3" key) using a rook (which moves any number of spaces horizontally or vertically), one valid number, after pressing the initial "3" key, is: 3145289
