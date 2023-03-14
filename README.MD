@@ -1,4 +1,4 @@
-![LemonEdgeCodingTest](documents/LemonEdge.png)
+![LemonEdgeCodingTest](https://github.com/TheoKand/LemonEdgeCodingTest/blob/master/Documents/LemonEdge.png)
 
 ## Problem
 
